@@ -27,7 +27,7 @@ An answer to that question.
 
 == Screenshots ==
 
-1. 
+1. Live view at http://sales.businessadwings.com/?page_id=2
 2. 
 
 == Changelog ==
