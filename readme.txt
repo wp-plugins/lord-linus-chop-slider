@@ -4,7 +4,7 @@ Donate link:
 Tags: slider, jquery slider, chop slider, lordlinus chop slider,
 Requires at least: 3.3
 Tested up to: 3.5.1
-Stable tag: 1.2
+Stable tag: 1.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,12 +27,14 @@ An answer to that question.
 
 == Screenshots ==
 
-1. Live view at http://sales.businessadwings.com/?page_id=2
+1. First Screen Shot
 2. 
 
 == Changelog ==
 
 1.2 First Version
+
+1.3 Now can upload images as you want
 
 == Upgrade notice ==
 
